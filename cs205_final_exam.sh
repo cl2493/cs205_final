@@ -20,4 +20,4 @@
  print "Avg. HP: $averageHp\n"
  print "Avg. Attack: $averageAttack\n"
 
-echo "======= END SUMMARY ======="
+echo "======== END SUMMARY ========"
